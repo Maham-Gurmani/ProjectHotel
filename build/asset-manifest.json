@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2c4dc94.css",
+    "main.js": "/static/js/main.6fdc72f7.js",
+    "static/js/787.8f727d95.chunk.js": "/static/js/787.8f727d95.chunk.js",
+    "static/media/bckgd.webp": "/static/media/bckgd.082f05baa36cd181bcc9.webp",
+    "static/media/contactpageimage1.webp": "/static/media/contactpageimage1.15ce567d35f7e7f2241d.webp",
+    "static/media/section5image.webp": "/static/media/section5image.1996fbb0ce2134e78a48.webp",
+    "static/media/4.webp": "/static/media/4.88fd17be439a4942fbc9.webp",
+    "static/media/Fourth-grid-pic-1.webp": "/static/media/Fourth-grid-pic-1.15ec49be0366ef7bdf11.webp",
+    "static/media/Fourth-grid-pic-4.webp": "/static/media/Fourth-grid-pic-4.19455a314c968b8f28ca.webp",
+    "static/media/logo02.png": "/static/media/logo02.2235d4d75bf7b261e4a1.png",
+    "static/media/1.webp": "/static/media/1.51298cab1d432c909ba1.webp",
+    "static/media/7.webp": "/static/media/7.647301f65de7b51f674b.webp",
+    "static/media/Fourth-grid-pic-2.webp": "/static/media/Fourth-grid-pic-2.fe7a232c5027e3c7382d.webp",
+    "static/media/two.webp": "/static/media/two.29dd5cb70b463728454e.webp",
+    "static/media/6.webp": "/static/media/6.4d575d999d1a91ba30c6.webp",
+    "static/media/3.webp": "/static/media/3.f4851bc8b3c7df3ddddc.webp",
+    "static/media/5.webp": "/static/media/5.fa6ae1b7d563d42a89ac.webp",
+    "static/media/three.webp": "/static/media/three.eb17276db14e4c76e985.webp",
+    "static/media/logo00.png": "/static/media/logo00.7a796720aa5932499591.png",
+    "static/media/Fourth-grid-pic-3.webp": "/static/media/Fourth-grid-pic-3.0e6c9a76c24a8322ce65.webp",
+    "static/media/smallpic.webp": "/static/media/smallpic.e2cf6c2e2c468559c451.webp",
+    "static/media/2.webp": "/static/media/2.91395f3dfcfcc7b61f28.webp",
+    "static/media/section5image1.webp": "/static/media/section5image1.41b2207f48e04088acf2.webp",
+    "static/media/contactpageimage2.webp": "/static/media/contactpageimage2.6749d5312cc3fdd1da15.webp",
+    "static/media/dolomites-valgardena.png": "/static/media/dolomites-valgardena.150783eabdb64ae1be3f.png",
+    "static/media/logo0.png": "/static/media/logo0.f83a71a320ab0b9f1998.png",
+    "index.html": "/index.html",
+    "main.d2c4dc94.css.map": "/static/css/main.d2c4dc94.css.map",
+    "main.6fdc72f7.js.map": "/static/js/main.6fdc72f7.js.map",
+    "787.8f727d95.chunk.js.map": "/static/js/787.8f727d95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2c4dc94.css",
+    "static/js/main.6fdc72f7.js"
+  ]
+}
